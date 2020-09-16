@@ -1,12 +1,12 @@
 # File cleaner
 
-# Super simple to use tool that helps to organize files in the directory.
+Super simple to use tool that helps organize files in the directory. Must have for people that store everything in downloads  folder.
 
 # Usage
+Just copy the script file (cleaner.py) into the messy directory and run the script form the console (tested on Windows machine). After the cleanup log file (cleanerLog_[date].txt) will be created with the summary.
 
-Just copy the script file (cleaner.py) in to the messy directory an run the script form the console (tested on Windows machine). After the cleanup log file (cleanerLog_date.txt) will be created with the summary.
-
-# Adwantages
+# Advantages
 - easy to configure action scope built in the script via [config] dictionary
 - included prevention from file overwrite
+- saves a lot of time
 
